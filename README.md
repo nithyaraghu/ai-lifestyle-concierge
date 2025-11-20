@@ -1,7 +1,7 @@
 # 🛎️ The AI Lifestyle Concierge
 ### Google AI Agents Capstone Project
 
-**Submission by:** [Your Name]  
+**Submission by:** Nithyashree Raghunathan  
 **Model:** Google Gemini 2.0 Flash  
 **Tools:** SerpApi (Flights), Spoonacular (Food)
 
